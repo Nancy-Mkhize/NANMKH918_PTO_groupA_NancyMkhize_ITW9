@@ -33,7 +33,10 @@ This website has been tested on the following browsers:
 Google Chrome
 Mozilla Firefox
 Microsoft Edge
+https://www.figma.com/file/JPetLAXeXfIs5xpHJi5kUF/ITW_Figma-Resume-Templates-(Copy)?node-id=1138%3A2&t=6cxvViucVSEWdQFU-1
 
+Author:Nancy Smith Mkhize
+Project Name: digital resume
 
 
 
